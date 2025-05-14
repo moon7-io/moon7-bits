@@ -3,7 +3,7 @@
     "version": "0.1.0",
     "author": "Munir Hussin <profoundseven@gmail.com>",
     "license": "MIT",
-    "description": "Type-safe bitwise operations for JavaScript and TypeScript with named bit collections",
+    "description": "Type-safe bit manipulation utilities for JavaScript and TypeScript",
     "keywords": [
         "bits",
         "bitwise",
